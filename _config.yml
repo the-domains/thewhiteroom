@@ -2,6 +2,7 @@ name: thewhiteroom
 favicon: null
 layout_spectrum: 0.09277820424176753
 typography_spectrum: 0.8631173404864967
+title: The White Room
 cta:
   domain: null
   bucket: null
